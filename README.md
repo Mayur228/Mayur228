@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Mayur228/mayursinh_parmar/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![MasterHead](https://github.com/Mayur228/Mayur228/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋 there, I'm Mayursinh Parmar😀</h1>
 
 
