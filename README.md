@@ -1,7 +1,6 @@
 ![MasterHead](https://github.com/Mayur228/Mayur228/blob/main/my_header%20(1).png)
 <h1 align="center">Hi 👋 there, I'm Mayursinh Parmar😀</h1>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mayursinh-parmar-308411115/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mayurshih001.mp@gmail.com">
