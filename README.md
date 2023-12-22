@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Mayur228/Mayur228/blob/main/my_header%20(1).png
+![MasterHead](https://github.com/Mayur228/Mayur228/blob/main/my_header%20(1).png)
 <h1 align="center">Hi 👋 there, I'm Mayursinh Parmar😀</h1>
 
 
