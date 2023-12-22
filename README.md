@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQFvYGaYDBloyQ/profile-displaybackgroundimage-shrink_200_800/0/1701710798673?e=2147483647&v=beta&t=NJVtX5XxsIhHwZP9a_cT4QxkAVDo4EDVqHnS6kbGgN8)
+<p align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQFvYGaYDBloyQ/profile-displaybackgroundimage-shrink_200_800/0/1701710798673?e=2147483647&v=beta&t=NJVtX5XxsIhHwZP9a_cT4QxkAVDo4EDVqHnS6kbGgN8"/></p>
 <h1 align="center">Hi 👋 there, I'm Mayursinh Parmar😀</h1>
 
 <p align="center">
