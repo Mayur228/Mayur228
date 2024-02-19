@@ -1,5 +1,6 @@
 <p align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQFvYGaYDBloyQ/profile-displaybackgroundimage-shrink_200_800/0/1701710798673?e=2147483647&v=beta&t=NJVtX5XxsIhHwZP9a_cT4QxkAVDo4EDVqHnS6kbGgN8"/></p>
 <h1 align="center">Hi 👋 there, I'm Mayursinh Parmar😀</h1>
+<a href="https://mayur228.github.io/myPortfolio/"><h2 align="center">🔗My Digital Canvas🌐</h2></a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayursinh-parmar-308411115/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
