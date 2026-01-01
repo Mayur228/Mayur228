@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Mayur228/Mayur228/blob/main/banner.png" />
+  <img src="https://github.com/Mayur228/Mayur228/blob/main/linkedIn Cover.png" />
 </p>
 
 <h1 align="center">Mayursinh Parmar</h1>
