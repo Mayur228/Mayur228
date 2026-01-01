@@ -5,120 +5,115 @@
 <h1 align="center">Mayursinh Parmar</h1>
 
 <h3 align="center">
-  Senior Mobile Application Developer
+  Mobile Application Developer — Android & Flutter
 </h3>
 
 <p align="center">
-  Android • Jetpack Compose • Flutter • Kotlin • Clean Architecture
+  🇮🇳 India • 🌍 Remote-friendly
 </p>
 
 <p align="center">
-  🔮 <a href="https://mayur228.github.io/myPortfolio/" target="_blank"><strong>Explore My Digital Canvas</strong></a>
+  <a href="https://mayur228.github.io/myPortfolio"><strong>Portfolio</strong></a> ·
+  <a href="mailto:mayurshih001.mp@gmail.com"><strong>Email</strong></a> ·
+  <a href="https://www.linkedin.com/in/mayursinh-parmar-308411115/"><strong>LinkedIn</strong></a>
+</p>
+
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif"
+    width="480"
+    alt="Developer working animation"
+  />
 </p>
 
 ---
 
-## 🧠 Engineering Philosophy
+## 👋 Professional Summary
 
-> _“Great apps are built by systems, not screens.”_
+Mobile Application Developer experienced in building **production-ready Android and Flutter applications** across real business domains.
 
-- Architecture before UI  
-- Predictable state over hacks  
-- Performance and maintainability first  
-- Code that scales with teams, not just features  
+I specialize in **clean architecture, scalable systems, and long-term maintainability**, ensuring mobile products remain stable, performant, and easy to evolve after launch.
 
 ---
 
-## 👋 About Me
+## 🧩 Domain Experience
 
-I’m a **Senior Mobile Application Developer** from India, focused on building  
-**production-ready Android and Flutter applications**.
-
-My strength lies in:
-- Designing **scalable architectures**
-- Building **state-driven UIs** with Jetpack Compose
-- Writing **clean, testable, long-living code**
-- Delivering apps that survive real users & real traffic
+| Domain | Experience |
+|------|-----------|
+| 🏥 **Healthcare** | Patient & doctor apps, secure authentication, real-time communication, privacy-focused flows |
+| 🏋️ **Fitness & Wellness** | Gym / Yoga / Zumba platforms, subscriptions, booking & scheduling |
+| 🧰 **Service Apps** | API-driven mobile systems, third-party integrations |
+| 💳 **Subscriptions & Payments** | In-app subscriptions, payment flows, business rule validation |
 
 ---
 
-## 🧩 Core Expertise
+## 🛠 Core Skills
 
-- 📱 Android (Jetpack Compose), Flutter  
-- 🧱 Clean Architecture, MVVM, MVI  
-- ⚡ Kotlin Coroutines, Flow  
-- 🔌 REST APIs, Ktor integration  
-- ☁ Firebase (Auth, Firestore, Crashlytics)  
+### 📱 Mobile Development
+- Android (Jetpack Compose)
+- Flutter
+- Kotlin · Java · Dart
 
----
-
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab,postman,vscode" />
-</p>
-
----
-
-## 🚀 Selected Work
-
-### 🏋️ Fitness & Subscription Platform
-- Activity booking (Gym, Yoga, Zumba)
-- Monthly & yearly plans
-- Jetpack Compose + MVVM
-- Real business workflows
-
-### 🏥 Healthcare Ecosystem
-- Patient & Doctor mobile apps
+### 🧱 Architecture & Patterns
 - Clean Architecture
-- Firebase authentication
-- Real-time chat & discovery
+- MVVM / MVI
+- Modular application design
+- Unidirectional data flow
+
+### ⚡ Async & Performance
+- Kotlin Coroutines
+- Flow
+- Lifecycle-aware components
+- Memory-safe patterns
+
+### 🔌 Backend & Services
+- REST APIs
+- Firebase (Auth, Firestore, Crashlytics)
 
 ---
 
-## 💼 Availability
+## 🧭 How I Work
 
-I’m open to opportunities where I can:
-- Own mobile architecture
-- Improve performance & code quality
-- Build long-term products
-
-**Available for:**  
-✔ Freelance  
-✔ Contract  
-✔ Full-time  
-✔ Startup collaborations  
-
-📬 **Email:** `mayurshih001.mp@gmail.com`  
-🔗 **LinkedIn:** https://www.linkedin.com/in/mayursinh-parmar-308411115/
+- Start with **architecture & data flow**, not UI  
+- Keep **business logic out of UI layers**  
+- Prefer **predictable state** over callback-heavy logic  
+- Write code that another developer can easily maintain  
+- Optimize for **post-launch stability**, not just delivery speed  
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 What I Bring to a Team
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mayur228&show_icons=true&theme=dark&hide_border=true"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur228&layout=compact&theme=dark&hide_border=true"
-    height="165"
-  />
-</p>
+- Clean, readable, testable code  
+- Scalable mobile architecture decisions  
+- Reduced bugs through better design  
+- Calm problem-solving under deadlines  
+- Ownership mindset for long-term products  
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Mayur228&theme=dark&hide_border=true"
-  />
-</p>
+I optimize for **product health**, not short-term hacks.
 
 ---
 
+## ⚙️ Tech Stack Snapshot
+
+| Platform | Tools |
+|--------|------|
+| **Android** | Kotlin, Jetpack Compose, Coroutines, Flow, Hilt/Koin, Retrofit/Ktor |
+| **Flutter** | Dart, Widget UI, Bloc/Provider, Platform APIs |
+| **Tools** | Git, GitHub, Postman, Android Studio, VS Code |
+
+---
+
+## 📬 Availability
+
+**Open to:**
+- Freelance & contract work  
+- Full-time opportunities  
+- Startup collaborations  
+
+📧 **Email:** mayurshih001.mp@gmail.com  
+📍 **Location:** India (Remote-friendly)
+
 <p align="center">
-  ⭐ Star repositories you find useful — it helps more than you think
+  <em>If you value clean mobile architecture and long-term thinking, we’ll work well together.</em>
 </p>
