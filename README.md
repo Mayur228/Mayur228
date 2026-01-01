@@ -13,39 +13,46 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=00E676&center=true&vCenter=true&width=600&lines=Designing+scalable+mobile+apps;Android+%7C+Flutter+Specialist;Clean+Architecture+%7C+MVVM+%7C+MVI;Compose+%7C+Coroutines+%7C+Flow;Production-ready+mindset" />
-</p>
-
-<p align="center">
   🔮 <a href="https://mayur228.github.io/myPortfolio/" target="_blank"><strong>Explore My Digital Canvas</strong></a>
 </p>
 
 ---
 
+## 🧠 Engineering Philosophy
+
+> _“Great apps are built by systems, not screens.”_
+
+- Architecture before UI  
+- Predictable state over hacks  
+- Performance and maintainability first  
+- Code that scales with teams, not just features  
+
+---
+
 ## 👋 About Me
 
-I’m a **Senior Mobile Application Developer** from India, specializing in building
-**scalable, production-ready Android and Flutter applications**.
+I’m a **Senior Mobile Application Developer** from India, focused on building  
+**production-ready Android and Flutter applications**.
 
-I focus on:
-- Clean Architecture & long-term maintainability  
-- Jetpack Compose & modern UI systems  
-- Kotlin Coroutines, Flow & state-driven design  
-- Performance, memory & lifecycle optimization  
-
----
-
-## 🧠 Expertise
-
-- 📱 **Mobile:** Android (Compose), Flutter  
-- 🧱 **Architecture:** Clean Architecture, MVVM, MVI  
-- ⚡ **Async:** Kotlin Coroutines, Flow  
-- 🔌 **Backend:** REST APIs, Ktor integration  
-- ☁ **Services:** Firebase (Auth, Firestore, Crashlytics)  
+My strength lies in:
+- Designing **scalable architectures**
+- Building **state-driven UIs** with Jetpack Compose
+- Writing **clean, testable, long-living code**
+- Delivering apps that survive real users & real traffic
 
 ---
 
-## 🧰 Technology Stack
+## 🧩 Core Expertise
+
+- 📱 Android (Jetpack Compose), Flutter  
+- 🧱 Clean Architecture, MVVM, MVI  
+- ⚡ Kotlin Coroutines, Flow  
+- 🔌 REST APIs, Ktor integration  
+- ☁ Firebase (Auth, Firestore, Crashlytics)  
+
+---
+
+## 🧰 Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio" />
@@ -57,40 +64,61 @@ I focus on:
 
 ---
 
-## 💼 Hire Me
+## 🚀 Selected Work
 
-Looking for a developer who can **own your mobile product end-to-end**?
+### 🏋️ Fitness & Subscription Platform
+- Activity booking (Gym, Yoga, Zumba)
+- Monthly & yearly plans
+- Jetpack Compose + MVVM
+- Real business workflows
 
-I help startups and businesses build **stable, scalable, and maintainable mobile apps** —
-from idea to production.
+### 🏥 Healthcare Ecosystem
+- Patient & Doctor mobile apps
+- Clean Architecture
+- Firebase authentication
+- Real-time chat & discovery
 
-**Available for:**
-- ✔ Freelance & Contract  
-- ✔ Full-Time Roles  
-- ✔ Startup Collaborations  
+---
+
+## 💼 Availability
+
+I’m open to opportunities where I can:
+- Own mobile architecture
+- Improve performance & code quality
+- Build long-term products
+
+**Available for:**  
+✔ Freelance  
+✔ Contract  
+✔ Full-time  
+✔ Startup collaborations  
 
 📬 **Email:** `mayurshih001.mp@gmail.com`  
-🔗 **LinkedIn:** https://www.linkedin.com/in/mayursinh-parmar/
+🔗 **LinkedIn:** https://www.linkedin.com/in/mayursinh-parmar-308411115/
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayur228&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur228&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Mayur228&show_icons=true&theme=dark&hide_border=true"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur228&layout=compact&theme=dark&hide_border=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayur228&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Mayur228&theme=dark&hide_border=true"
+  />
 </p>
 
 ---
 
 <p align="center">
   ⭐ Star repositories you find useful — it helps more than you think
-</p>
-
-<p align="center">
-  <img src="https://github.com/Mayur228/Mayur228/blob/output/github-contribution-grid-snake.svg" />
 </p>
