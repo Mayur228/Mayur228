@@ -2,62 +2,75 @@
   <img src="https://github.com/Mayur228/Mayur228/blob/main/banner.png" />
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#4CAF50;">Mayursinh Parmar</span>
-</h1>
+<h1 align="center">Mayursinh Parmar</h1>
 
 <h3 align="center">
-  Mobile Application Developer | Android • Flutter • Kotlin • Clean Architecture
+  Senior Mobile Application Developer
 </h3>
 
 <p align="center">
-  I build scalable, high-performance mobile apps with modern architecture and clean code.
+  Android • Jetpack Compose • Flutter • Kotlin • Clean Architecture
 </p>
 
 <p align="center">
-  <a href="https://mayur228.github.io/myPortfolio/" target="_blank">
-    🚀 <strong>My Digital Canvas (Portfolio)</strong>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=00E676&center=true&vCenter=true&width=600&lines=Designing+scalable+mobile+apps;Android+%7C+Flutter+Specialist;Clean+Architecture+%7C+MVVM+%7C+MVI;Compose+%7C+Coroutines+%7C+Flow;Production-ready+mindset" />
 </p>
-
----
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayursinh-parmar-308411115/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mayurshih001.mp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
-  <a href="https://www.instagram.com/the_app_maker_buddy">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  🔮 <a href="https://mayur228.github.io/myPortfolio/" target="_blank"><strong>Explore My Digital Canvas</strong></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🇮🇳 Mobile Developer from India  
-- 📱 Android (Jetpack Compose) & Flutter Specialist  
-- 🧠 Strong in **Clean Architecture, MVVM, MVI**
-- ⚡ Kotlin Coroutines, Flow, Firebase, REST APIs
-- 🔧 Experience with **Ktor Backend Integration**
-- 🎯 Focused on performance, scalability & UX
+I’m a **Senior Mobile Application Developer** from India, specializing in building
+**scalable, production-ready Android and Flutter applications**.
+
+I focus on:
+- Clean Architecture & long-term maintainability  
+- Jetpack Compose & modern UI systems  
+- Kotlin Coroutines, Flow & state-driven design  
+- Performance, memory & lifecycle optimization  
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Expertise
 
-### 📱 Mobile
+- 📱 **Mobile:** Android (Compose), Flutter  
+- 🧱 **Architecture:** Clean Architecture, MVVM, MVI  
+- ⚡ **Async:** Kotlin Coroutines, Flow  
+- 🔌 **Backend:** REST APIs, Ktor integration  
+- ☁ **Services:** Firebase (Auth, Firestore, Crashlytics)  
+
+---
+
+## 🧰 Technology Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio" />
 </p>
 
-### 🧠 Architecture & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab,postman,vscode"/>
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab,postman,vscode" />
 </p>
+
+---
+
+## 💼 Hire Me
+
+Looking for a developer who can **own your mobile product end-to-end**?
+
+I help startups and businesses build **stable, scalable, and maintainable mobile apps** —
+from idea to production.
+
+**Available for:**
+- ✔ Freelance & Contract  
+- ✔ Full-Time Roles  
+- ✔ Startup Collaborations  
+
+📬 **Email:** `mayurshih001.mp@gmail.com`  
+🔗 **LinkedIn:** https://www.linkedin.com/in/mayursinh-parmar/
 
 ---
 
@@ -74,26 +87,10 @@
 
 ---
 
-## 🏆 What I Care About
-
-- ✔ Clean & maintainable code  
-- ✔ Modern UI/UX (Jetpack Compose / Flutter)  
-- ✔ Scalable architecture  
-- ✔ Real-world production practices  
-
----
-
-## 🤝 Let’s Connect
-
-💼 Open for:
-- Freelance projects  
-- Full-time / Contract roles  
-- Startup collaborations  
-
-📬 Reach me at **mayurshih001.mp@gmail.com**
-
----
+<p align="center">
+  ⭐ Star repositories you find useful — it helps more than you think
+</p>
 
 <p align="center">
-  <strong>⭐ If you like my work, consider starring my repositories!</strong>
+  <img src="https://github.com/Mayur228/Mayur228/blob/output/github-contribution-grid-snake.svg" />
 </p>
