@@ -1,119 +1,83 @@
 <p align="center">
-  <img src="https://github.com/Mayur228/Mayur228/blob/main/linkedIn Cover.png" />
+  <img src="https://github.com/Mayur228/Mayur228/blob/main/linkedIn Cover.png" alt="Cover Image" />
 </p>
 
 <h1 align="center">Mayursinh Parmar</h1>
 
-<h3 align="center">
-  Mobile Application Developer — Android & Flutter
-</h3>
-
 <p align="center">
-  🇮🇳 India • 🌍 Remote-friendly
+  Senior Mobile Systems Engineer  
+  <br/>
+  Android • Kotlin • Flutter • Modular Architecture
 </p>
 
 <p align="center">
-  <a href="https://mayur228.github.io/myPortfolio"><strong>Portfolio</strong></a> ·
-  <a href="mailto:mayurshih001.mp@gmail.com"><strong>Email</strong></a> ·
-  <a href="https://www.linkedin.com/in/mayursinh-parmar-308411115/"><strong>LinkedIn</strong></a>
-</p>
-
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif"
-    width="480"
-    alt="Developer working animation"
-  />
+  🇮🇳 India • Remote-friendly  
+  <br/>
+  <a href="https://mayur228.github.io/myPortfolio">Portfolio</a> ·
+  <a href="mailto:mayurshih001.mp@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/mayursinh-parmar-308411115/">LinkedIn</a>
 </p>
 
 ---
 
-## 👋 Professional Summary
+## About
 
-Mobile Application Developer experienced in building **production-ready Android and Flutter applications** across real business domains.
+Mobile engineer focused on building scalable, modular, production-grade systems.
 
-I specialize in **clean architecture, scalable systems, and long-term maintainability**, ensuring mobile products remain stable, performant, and easy to evolve after launch.
+I design applications with:
+- Clean, layered architecture
+- Framework-independent domain logic
+- Structured concurrency
+- Predictable state management
+- Long-term maintainability
 
----
-
-## 🧩 Domain Experience
-
-| Domain | Experience |
-|------|-----------|
-| 🏥 **Healthcare** | Patient & doctor apps, secure authentication, real-time communication, privacy-focused flows |
-| 🏋️ **Fitness & Wellness** | Gym / Yoga / Zumba platforms, subscriptions, booking & scheduling |
-| 🧰 **Service Apps** | API-driven mobile systems, third-party integrations |
-| 💳 **Subscriptions & Payments** | In-app subscriptions, payment flows, business rule validation |
+I build systems meant to evolve — not be rewritten.
 
 ---
 
-## 🛠 Core Skills
+## Experience Domains
 
-### 📱 Mobile Development
-- Android (Jetpack Compose)
+- Healthcare systems
+- Fintech & subscription platforms
+- Service-based multi-role applications
+- Fitness & lifestyle platforms
+- Bluetooth-based offline systems
+- ML & AR-integrated mobile apps
+
+---
+
+## Core Expertise
+
+**Mobile**
+- Kotlin, Jetpack Compose
+- Coroutines & Flow
 - Flutter
-- Kotlin · Java · Dart
+- Kotlin Multiplatform (shared core design)
 
-### 🧱 Architecture & Patterns
+**Architecture**
 - Clean Architecture
-- MVVM / MVI
-- Modular application design
-- Unidirectional data flow
+- Modularization
+- Repository pattern
+- SDK-style system design
+- Dependency Injection (Hilt / Koin)
 
-### ⚡ Async & Performance
-- Kotlin Coroutines
-- Flow
-- Lifecycle-aware components
-- Memory-safe patterns
-
-### 🔌 Backend & Services
-- REST APIs
-- Firebase (Auth, Firestore, Crashlytics)
+**Systems**
+- Offline-first patterns
+- Background processing
+- Secure payment integration
+- Ktor backend integration
+- Published Bluetooth SDK
 
 ---
 
-## 🧭 How I Work
+## Current Focus
 
-- Start with **architecture & data flow**, not UI  
-- Keep **business logic out of UI layers**  
-- Prefer **predictable state** over callback-heavy logic  
-- Write code that another developer can easily maintain  
-- Optimize for **post-launch stability**, not just delivery speed  
+- Subscription-grade production app architecture
+- ML / LLM-based SDK design
+- Scalable mobile system engineering
 
 ---
-
-## 🤝 What I Bring to a Team
-
-- Clean, readable, testable code  
-- Scalable mobile architecture decisions  
-- Reduced bugs through better design  
-- Calm problem-solving under deadlines  
-- Ownership mindset for long-term products  
-
-I optimize for **product health**, not short-term hacks.
-
----
-
-## ⚙️ Tech Stack Snapshot
-
-| Platform | Tools |
-|--------|------|
-| **Android** | Kotlin, Jetpack Compose, Coroutines, Flow, Hilt/Koin, Retrofit/Ktor |
-| **Flutter** | Dart, Widget UI, Bloc/Provider, Platform APIs |
-| **Tools** | Git, GitHub, Postman, Android Studio, VS Code |
-
----
-
-## 📬 Availability
-
-**Open to:**
-- Freelance & contract work  
-- Full-time opportunities  
-- Startup collaborations  
-
-📧 **Email:** mayurshih001.mp@gmail.com  
-📍 **Location:** India (Remote-friendly)
 
 <p align="center">
-  <em>If you value clean mobile architecture and long-term thinking, we’ll work well together.</em>
+  Building maintainable systems at scale.
 </p>
